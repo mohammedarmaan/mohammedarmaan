@@ -1,8 +1,10 @@
-![GitHub Banner]([https://dummyimage.com/1280x640/000/fff.png&text=Your+GitHub+Profile+Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![GitHub Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Mohammed Armaan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="programming" width="400" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg0MjIzOTksIm5iZiI6MTcxODQyMjA5OSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE1VDAzMjgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5ZWZjN2VjZTJlYWJjZGFiNmJkODM2ZDdjYjcyYzE2YTE5NDRmZDE2YzEzZmQzODBmYzc5Mjc5ODAyMGJmYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JfSnpDGT9nIjxqId8O8B72y4r6FbQidj86nmj7lHIOE">
+
+![Logo](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [{portfolio link}]({portfolio link})
