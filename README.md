@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [{portfolio link}]({portfolio link})
+- 👨‍💻 All of my projects are available at https://armaan-five.vercel.app/
 
 - 💬 Ask me about **React**
 
