@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My portfolio... https://armaan-five.vercel.app/
+- 👨‍💻 My portfolio... https://armaan02.vercel.app/
 
 - 💬 Ask me about **React**
 
