@@ -1,10 +1,10 @@
-![GitHub Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+ ![Logo](https://wallpapers.com/images/hd/monkey-d-luffy-smile-under-the-sky-ac0hmws4hyl6akbj.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Mohammed Armaan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 My portfolio... https://armaan02.vercel.app/
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **armaan0243@gmail.com**
 
-- ⚡ Fun fact **I am a "One Piece" fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
