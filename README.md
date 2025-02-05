@@ -6,7 +6,6 @@
 
 
 
-- 👨‍💻 My portfolio... https://armaan02.vercel.app/
 
 - 💬 Ask me about **React**
 
